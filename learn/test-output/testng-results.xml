@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-21T20:31:00 IST" name="Default suite" finished-at="2025-08-21T20:31:00 IST" duration-ms="147">
+    <groups>
+    </groups>
+    <test started-at="2025-08-21T20:31:00 IST" name="Default test" finished-at="2025-08-21T20:31:00 IST" duration-ms="147">
+      <class name="com.tech.learn.Listener_Practice">
+        <test-method signature="simpleTest()[pri:0, instance:com.tech.learn.Listener_Practice@7e6f74c]" started-at="2025-08-21T20:31:00 IST" name="simpleTest" finished-at="2025-08-21T20:31:00 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleTest -->
+      </class> <!-- com.tech.learn.Listener_Practice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
